@@ -16,6 +16,12 @@ Sou desenvolvedor e profissional de infraestrutura, na reta final do bacharelado
 
 ---
 
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelinho-diniz)
+
+---
+
 ## 🏭 Projeto em destaque: Biotec Gestão
 
 Sistema web de gestão de fábrica que projetei e desenvolvi para a Biotec Hospitalar, em uso no celular e no computador. O código é privado, por ser da empresa.
