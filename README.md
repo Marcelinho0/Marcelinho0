@@ -22,9 +22,9 @@ Sou desenvolvedor e profissional de infraestrutura, na reta final do bacharelado
 
 ---
 
-## 🏭 Projeto em destaque: Biotec Gestão
+## 🏭 Projeto em destaque: [Biotec Gestão](https://github.com/Marcelinho0/biotec-gestao)
 
-Sistema web de gestão de fábrica que projetei e desenvolvi para a Biotec Hospitalar, em uso no celular e no computador. O código é privado, por ser da empresa.
+Sistema web de gestão de fábrica que projetei e desenvolvi para a Biotec Hospitalar, em uso no celular e no computador. O código é privado, por ser da empresa, mas a [apresentação completa do projeto](https://github.com/Marcelinho0/biotec-gestao) está aberta.
 
 - 📊 Painel da diretoria, lançamento de produção por máquina, estoques, custos, preço de venda, cotações, PPCP sugerido e vendas
 - 🚚 Módulo de entregas com aplicativo instalável para o motorista (PWA)
