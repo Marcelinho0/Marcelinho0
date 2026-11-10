@@ -6,13 +6,13 @@
 
 [![Python, C++, C#, PHP, JavaScript](https://skillicons.dev/icons?i=py,cpp,cs,php,js "Python, C++, C#, PHP, JavaScript")](https://skillicons.dev)  
 [![HTML, CSS, Supabase, PostgreSQL, Cloudflare](https://skillicons.dev/icons?i=html,css,supabase,postgres,cloudflare "HTML, CSS, Supabase, PostgreSQL, Cloudflare")](https://skillicons.dev)  
-[![GitHub, Windows](https://skillicons.dev/icons?i=github,windows "GitHub, Windows")](https://skillicons.dev)
+[![Unity, GitHub, Windows](https://skillicons.dev/icons?i=unity,github,windows "Unity, GitHub, Windows")](https://skillicons.dev)
 
 </div>
 
 ---
 
-Sou desenvolvedor e profissional de infraestrutura, na reta final do bacharelado em Sistemas de Informação. Entendo de **PCP** (planejamento e controle da produção) e uso esse conhecimento para construir sistemas que resolvem problemas reais de fábrica. Programo em **Python**, **C++**, **C#**, **PHP** e **JavaScript**.
+Sou desenvolvedor e profissional de infraestrutura, na reta final do bacharelado em Sistemas de Informação. Entendo de **PCP** (planejamento e controle da produção) e uso esse conhecimento para construir sistemas que resolvem problemas reais de fábrica. Programo em **Python**, **C++**, **C#**, **PHP** e **JavaScript**, e desenvolvo jogos na **Unity**.
 
 ---
 
@@ -57,6 +57,9 @@ Sistema web de gestão de fábrica que projetei e desenvolvi para a Biotec Hospi
 ![Big Data](https://img.shields.io/badge/Big_Data-0F766E?style=for-the-badge) 
 ![Análise de dados](https://img.shields.io/badge/An%C3%A1lise_de_dados-0F766E?style=for-the-badge)
 
+**Jogos:**  
+![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
+
 **Infraestrutura & Redes:**  
 ![Redes de computadores](https://img.shields.io/badge/Redes_de_computadores-1D4ED8?style=for-the-badge) 
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white) 
@@ -83,7 +86,7 @@ Sistema web de gestão de fábrica que projetei e desenvolvi para a Biotec Hospi
 
 ## 🎮 Outros projetos
 
-- **Castelo Arruinado:** jogo de ação e aventura em primeira pessoa, em um universo medieval sombrio de magia e mistério, no papel de um jovem mago que atravessa um castelo labiríntico
+- **[Castelo Arruinado](https://github.com/Marcelinho0/castelo-arruinado):** jogo de ação e aventura em primeira pessoa com permadeath, feito na Unity. Projeto acadêmico em equipe, em que fiz a programação e o design
 - **[Conexões Globais](https://github.com/Marcelinho0/conexoes-globais-podcast):** podcast de geopolítica produzido com IA generativa
 
 ---
