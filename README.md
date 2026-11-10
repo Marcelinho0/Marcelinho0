@@ -83,7 +83,7 @@ Sistema web de gestão de fábrica que projetei e desenvolvi para a Biotec Hospi
 
 ## 🎮 Outros projetos
 
-- **Jogo autoral:** em breve por aqui
+- **Castelo Arruinado:** jogo de ação e aventura em primeira pessoa, em um universo medieval sombrio de magia e mistério, no papel de um jovem mago que atravessa um castelo labiríntico
 - **[Conexões Globais](https://github.com/Marcelinho0/conexoes-globais-podcast):** podcast de geopolítica produzido com IA generativa
 
 ---
